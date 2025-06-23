@@ -40,8 +40,8 @@ This user guide provides detailed instructions on how to use the NASA Universal 
 
 1. Clone the repository or download the package:
 ```bash
-git clone https://github.com/yourusername/nasa-api-tool.git
-cd nasa-api-tool
+git clone https://github.com/ldoe08/nasa-api.git
+cd nasa-api
 ```
 
 2. Install the package:
