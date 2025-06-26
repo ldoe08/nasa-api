@@ -4,8 +4,8 @@ This essentially acts as a module which can be used to draw data from https://ap
 
 See API documentation for specific usage. It is in markdown.
 
-You will need an API key from https://api.nasa.gov/ . It is free up to 1000 requests per hour, but past that (enterprise) I would not use this project as it is only built for single request tasking.
+You will need an API key from https://api.nasa.gov/ . It is free up to 1000 requests per hour, but past that (enterprise use cases) I would not use this project as it is only built for single request tasking (basically I couldn't be bothered to code multi threading).
 
-See MIT use for rules on use of project.
+See MIT license for rules on use of project.
 
 I am transparent about my AI use, and as such my use here has been limited to help me build out markdown files and to help me keep up with housekeeping (if you want to see how that looks, it has since been deleted from this project. See commit 7e03259 and 4ba0b77).
